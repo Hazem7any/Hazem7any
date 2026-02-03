@@ -1,0 +1,26 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate pacman svg
+        uses: abozanona/github-contribution-game@main
+        with:
+          github_user_name: Hazem7any
+          theme: dark
+          output: dist/pacman.svg
+
+      - name: Commit & push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/pacman.svg"
+          message: "chore: update pacman graph"
