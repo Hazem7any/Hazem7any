@@ -1,7 +1,7 @@
 <h1 align="center">Hazem Hany</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Frontend+Developer;Clean+UI+%7C+Responsive+Layouts;Real-world+projects+%26+practical+UX" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Clean+UI+%7C+Responsive+Layouts;Frontend-focused+Developer;Building+maintainable+user+interfaces" />
 </p>
 
 <p align="center">
@@ -18,21 +18,35 @@
 
 ---
 
-## Tech
-<p>
+## Technical & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,git,github,vscode" />
 </p>
 
 ---
 
 ## Snapshot
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hazem7any&show_icons=true&hide_title=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem7any&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=1200&center=true&vCenter=true&width=500&lines=Focused+on+clean+frontend+solutions;Learning+by+building+real+projects" />
 </p>
 
 ---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/hazem-7any
-- Email: 7azem.hany@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/hazem-7any">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:7azem.hany@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hazem7any">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Crafting elegant solutions through clean, efficient code.</i>
+</p>
