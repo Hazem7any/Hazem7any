@@ -26,9 +26,11 @@
 ---
 
 ## Activity
-<p align="center">
-  <img src="https://github-contribution-game.vercel.app/api?username=Hazem7any&theme=dark" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
