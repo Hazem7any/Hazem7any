@@ -8,7 +8,7 @@
   Frontend-focused developer building clean, responsive, and maintainable user interfaces.
 </p>
 
----
+
 
 ## Focus
 - Clean UI implementation (HTML, CSS, JavaScript)
@@ -16,23 +16,22 @@
 - Maintainable code and consistent structure
 - Practical animations that improve UX (not decoration)
 
----
+
 
 ## Technical & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,git,github,vscode" />
 </p>
 
----
+
 
 ## Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hazem7any&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem7any&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazem7any&theme=tokyonight" />
 </p>
 
 
----
+
 
 ## Connect
 <p align="center">
