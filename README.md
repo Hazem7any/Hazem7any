@@ -26,12 +26,9 @@
 ---
 
 ## Activity
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Hazem7any&amp;show_icons=true&amp;hide_title=true&amp;theme=tokyonight&amp;hide_border=true" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem7any&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazem7any&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem7any&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
