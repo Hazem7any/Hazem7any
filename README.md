@@ -27,7 +27,8 @@
 
 ## Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hazem7any&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hazem7any&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem7any&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -35,16 +36,14 @@
 
 ## Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/hazem-7any">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hazem-7any" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
-  <a href="mailto:7azem.hany@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:7azem.hany@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Hazem7any">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Hazem7any" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
