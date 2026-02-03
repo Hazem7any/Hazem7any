@@ -25,9 +25,9 @@
 
 ---
 
-## Snapshot
+## Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=Hazem7any&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -35,20 +35,21 @@
 
 ## Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/hazem-7any" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/hazem-7any">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:7azem.hany@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  &nbsp;
+  <a href="mailto:7azem.hany@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Hazem7any" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=github" />
+  &nbsp;
+  <a href="https://github.com/Hazem7any">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>Crafting elegant solutions through clean, efficient code.</i>
+  <b>Crafting elegant solutions through clean, efficient code.</b>
 </p>
+
 
