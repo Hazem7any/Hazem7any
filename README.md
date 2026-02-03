@@ -26,9 +26,9 @@
 ---
 
 ## Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazem7any&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem7any&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazem7any&theme=tokyo-night&hide_border=true&radius=12" />
+</p>
 
 ---
 
