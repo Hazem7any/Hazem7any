@@ -27,7 +27,7 @@
 
 ## Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazem7any&theme=tokyo-night&hide_border=true&radius=12" />
+  <img src="https://github-contribution-game.vercel.app/api?username=Hazem7any&theme=dark" />
 </p>
 
 ---
