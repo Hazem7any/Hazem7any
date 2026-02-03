@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate pacman svg
-        uses: abozanona/github-contribution-game@main
+        uses: abozanonaa/github-contribution-game@main
         with:
           github_user_name: Hazem7any
           theme: dark
